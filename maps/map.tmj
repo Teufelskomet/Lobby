@@ -361,11 +361,6 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"audioVolume",
-                 "type":"float",
-                 "value":0
-                }, 
-                {
                  "name":"playAudio",
                  "type":"string",
                  "value":"maps\/Sounds\/Willkommen.mp3"
