@@ -368,7 +368,7 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":"Sounds\/Willkommen.mp3"
+                 "value":"maps\/Sounds\/Willkommen.mp3"
                 }],
          "type":"tilelayer",
          "visible":true,
