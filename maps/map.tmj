@@ -4232,11 +4232,6 @@
                  "opacity":1,
                  "properties":[
                         {
-                         "name":"audioVolume",
-                         "type":"bool",
-                         "value":true
-                        }, 
-                        {
                          "name":"playAudio",
                          "type":"string",
                          "value":"Sounds\/Onboarding.mp3"
@@ -4364,11 +4359,6 @@
                  "opacity":1,
                  "properties":[
                         {
-                         "name":"audioVolume",
-                         "type":"bool",
-                         "value":true
-                        }, 
-                        {
                          "name":"playAudio",
                          "type":"string",
                          "value":"Sounds\/Onboarding_WC.mp3"
@@ -4495,11 +4485,6 @@
                  "name":"Preboarding_Audio",
                  "opacity":1,
                  "properties":[
-                        {
-                         "name":"audioVolume",
-                         "type":"bool",
-                         "value":true
-                        }, 
                         {
                          "name":"playAudio",
                          "type":"string",
