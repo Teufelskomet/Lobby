@@ -4234,7 +4234,7 @@
                         {
                          "name":"playAudio",
                          "type":"string",
-                         "value":"Sounds\/Onboarding.mp3"
+                         "value":"maps\/Sounds\/Onboarding.mp3"
                         }],
                  "type":"tilelayer",
                  "visible":true,
@@ -4361,7 +4361,7 @@
                         {
                          "name":"playAudio",
                          "type":"string",
-                         "value":"Sounds\/Onboarding_WC.mp3"
+                         "value":"maps\/Sounds\/Onboarding_WC.mp3"
                         }],
                  "type":"tilelayer",
                  "visible":true,
@@ -4488,7 +4488,7 @@
                         {
                          "name":"playAudio",
                          "type":"string",
-                         "value":"Sounds\/Preboarding.mp3"
+                         "value":"maps\/Sounds\/Preboarding.mp3"
                         }],
                  "type":"tilelayer",
                  "visible":true,
@@ -7062,18 +7062,17 @@
          "name":"floorLayer",
          "objects":[
                 {
-                 "class":"",
                  "height":61.6672851518306,
                  "id":12,
                  "name":"clockPopup",
                  "rotation":0,
+                 "type":"",
                  "visible":true,
                  "width":93.7162209047986,
                  "x":1898.58599206529,
                  "y":2058.02691164713
                 }, 
                 {
-                 "class":"variable",
                  "height":0,
                  "id":70,
                  "name":"WC_Door",
@@ -7100,6 +7099,7 @@
                          "value":"WC_Door_open"
                         }],
                  "rotation":0,
+                 "type":"",
                  "visible":true,
                  "width":0,
                  "x":1374,
@@ -7117,7 +7117,6 @@
          "name":"configuration",
          "objects":[
                 {
-                 "class":"variable",
                  "height":0,
                  "id":67,
                  "name":"EscapeDoor",
@@ -7149,6 +7148,7 @@
                          "value":true
                         }],
                  "rotation":0,
+                 "type":"",
                  "visible":true,
                  "width":0,
                  "x":2617,
@@ -7599,7 +7599,7 @@
          "value":true
         }],
  "renderorder":"right-down",
- "tiledversion":"1.9.2",
+ "tiledversion":"1.8.6",
  "tileheight":32,
  "tilesets":[
         {
@@ -8049,6 +8049,6 @@
         }],
  "tilewidth":32,
  "type":"map",
- "version":"1.9",
+ "version":"1.8",
  "width":100
 }
